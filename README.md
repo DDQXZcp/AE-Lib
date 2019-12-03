@@ -1,4 +1,3 @@
-```flow
 st0=>start: Common.h 
 define fundamental data and struct
 MATH: PI, RAD_TO_DEG, DEG_TO_RAD
@@ -47,4 +46,3 @@ when already start, calculate curPos
 op5=>operation: cur...Available, getCCurPos,getR
 No need to explain
 st0->st->st1->st2->st3->op->op1->op2->op3->op4->op5
-```
