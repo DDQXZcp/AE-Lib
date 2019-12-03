@@ -1,4 +1,3 @@
-# AE-Lib
 ```flow
 st0=>start: Common.h 
 define fundamental data and struct
